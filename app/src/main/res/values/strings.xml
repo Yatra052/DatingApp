@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dating App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="Dating">Dating</string>
+    <string name="Message">Message</string>
+    <string name="Profile">Profile</string>
+    <string name="Open"></string>
+    <string name="Close"></string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define selected color -->
+    <color android:name="selected_icon_color"></color> <!-- This is an example color, you can replace it with any color code -->
+
+    <!-- Define unselected color -->
+    <color android:name="unselected_icon_color">
+
+    </color> <!-- This is an example color, you can replace it with any color code -->
+</resources>
